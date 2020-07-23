@@ -1,0 +1,9 @@
+开服天数	金币	经验	突破石	奢华号角	5小时加速卡	魔法棒	龙晶包	觉醒石	宝石袋	星纹卷轴
+startDay	award1	award2	award3	award4	award5	award6	award7	award8	award9	award10
+Int	Award	Award	Award	Award	Award	Award	Award	Award	Award	Award
+7	user.gold:2500000	user.hero_exp:5000000	material.1:300	user.htoken:2	material.32:1	user.wand:10	material.100402:3	material.41:3000	material.100002:5	user.sky_book:5000
+14	user.gold:2500000	user.hero_exp:5000000	material.1:300	user.htoken:2	material.32:1	user.wand:10	material.100402:3	material.41:3000	material.100002:6	user.sky_book:5000
+30	user.gold:5000000	user.hero_exp:10000000	material.1:500	user.htoken:3	material.32:1	user.wand:10	material.100402:4	material.41:4500	material.100002:7	user.sky_book:10000
+60	user.gold:5000000	user.hero_exp:10000000	material.1:500	user.htoken:3	material.32:1	user.wand:10	material.100402:5	material.41:6000	material.100002:8	user.sky_book:20000
+90	user.gold:5000000	user.hero_exp:10000000	material.1:500	user.htoken:3	material.32:1	user.wand:10	material.100402:6	material.41:7500	material.100002:9	user.sky_book:30000
+99999	user.gold:5000000	user.hero_exp:10000000	material.1:500	user.htoken:3	material.32:1	user.wand:10	material.100402:7	material.41:9000	material.100002:10	user.sky_book:40000

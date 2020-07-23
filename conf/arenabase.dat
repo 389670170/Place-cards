@@ -1,0 +1,9 @@
+竞技场等级	竞技场名称	开启需求通关关卡类型	开启需求通关关卡	挑战上限等级（大于该等级则不能挑战）	机器人战力MIN	机器人战力MAX	机器人战力系数	机器人等级MIN	机器人等级MAX	机器人等级系数	单次挑战奖励	徽章图片路径	解锁外观条件	解锁城池外观ID	帝王描述（暂未使用）
+type	name	limitType	limitCustom	levelLimit	powerMin	powerMax	 powerCoefficient	lvMin	lvMax	lvCoefficient	award	icon	unlockLimit	unlockCityId	desc
+Int	String	Int	Int	Int	Int	Int	Int	Int	Int	Int	Award	String	Ints	Int	String
+1	text_arenabaseName_1	1	24	45	17106	65485	50	12	25	50	group.50000101.0:1	huangtong.png	0|500	1	    东汉末年以后，中原大乱。辽东太守公孙度趁机割据自立，自封为辽东侯，称平州牧，以襄平县为平州和辽东郡治所。魏景初二年，司马懿灭公孙氏，辽东郡纳入魏国版图，在襄平设东夷校尉。其后，平州合并于幽州。
+2	text_arenabaseName_2	1	51	70	183559	245450	50	37	40	50	group.50000102.0:1	baiyin.png	0|500	1	    东汉末年，割据冀州等地的袁绍，率军攻灭易京公孙瓒军。汉献帝建安三年，袁绍率兵攻公孙瓒。公孙瓒只守不攻，袁绍遂设下伏兵。公孙瓒中伏后，心知必败，逃回城中自杀。
+3	text_arenabaseName_3	2	78	110	832214	1046331	50	70	72	50	group.50000103.0:1	huangjin.png	0|500	1	    汉献帝建安二十三年（218年），魏国对三郡乌桓、鲜卑的一次征讨作战，以魏军胜利，三郡乌桓的势力被摧毁、鲜卑请服而告终，此战稳固曹魏的北方疆域。
+4	text_arenabaseName_4	3	102	170	3325962	3493573	50	107	110	50	group.50000104.0:1	zijin.png	1	1	    汉献帝建安十一年，平原国除为郡。建安十八年，曹操分平原郡、乐安郡与勃海郡数县置乐陵郡。平原郡之乐陵、厌次两县改属乐陵郡，后曹植封侯于此。
+5	text_arenabaseName_5	4	126	240	9325465	9585102	50	170	172	50	group.50000105.0:1	zuanshi.png	1	1	    陈仓之战，蜀汉诸葛亮第二次北伐时，与曹魏的一场战役。魏将郝昭以千余之兵拒守诸葛亮数万大军，双方相持二十余日，诸葛亮无计可破，因粮尽而被迫退兵。
+6	text_arenabaseName_6	5	144	999	22033414	22804428	50	237	240	50	group.50000106.0:1	wangzhe.png	1	1	    三国魏复名天水郡，为秦州治。仍治冀县，领6县。这里是蜀汉名将-姜维的出生地。诸葛亮在第一次北伐时，使妙计让姜维归降。

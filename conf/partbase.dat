@@ -1,0 +1,9 @@
+部位ID	觉醒等级限制	镶嵌宝石类型	极限觉醒属性	极限觉醒消耗	局限觉醒返还
+Id	levelLimit	embedGemType	maxAtt	costMaxAwake	return
+Int	Int	Int	Int	Award	Award
+1	0	3	6	material.42:-1	material.42:1
+2	0	1	5	material.42:-1	material.42:1
+3	0	4	19	material.42:-1	material.42:1
+4	0	2	14	material.42:-1	material.42:1
+5	0	4	7	material.42:-1	material.42:1
+6	0	1	15	material.42:-1	material.42:1

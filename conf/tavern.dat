@@ -1,0 +1,5 @@
+招募类型	兑换目标	兑换条件	招募名称	招募消耗1	招募消耗2	消耗2十连抽折扣	特殊产出需求次数	特殊产出	周期保底产出奖励	周期保底替换奖励1	周期保底替换方案1	周期保底替换奖励2	周期保底替换方案2	周期保底替换奖励3	周期保底替换方案3
+type	goal	limit	name	cost1	cost2	tenDiscount	specialNeed	specialAward	cycleBasicAward1	cycleAward1	lootType1	cycleAward2	lootType2	cycleAward3	lootType3
+Int	Award	Int	String	Award	Award	Int	Int	Award	Award	Award	Ints	Award	Ints	Award	Ints
+1	group.10000012.0:1	100	text_tavern_1	user.mixcash:-280	user.mixcash:-280	10	10	group.10000012.0:1	user.hero_exp:100000	material.930:5	1|25|10	group.10000010.0:1	1|25|10	group.10000012.0:1	25|50|1
+2	card.301001:1	100	text_tavern_2	user.cash:-280	user.cash:-280	10	10	group.10000012.0:1	group.10000011.0:1	material.940:10	1|10|1	group.10000012.0:1	1|10|1	group.10000013.0:1	12|20|1

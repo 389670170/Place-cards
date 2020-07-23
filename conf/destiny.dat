@@ -1,0 +1,8 @@
+觉醒等级	攻击万分比	防御万分比	生命万分比	速度万分比	升至本阶消耗英雄1	升至本阶消耗英雄2	升至本阶消耗英雄3	分解返还
+level	atk	def	hp	speed	costHero1	costHero2	costHero3	return
+Int	Int	Int	Int	Int	Ints	Ints	Ints	Award
+1	200	100	200	100	3|5|1	0	0	material.1:2300,user.soul:36000
+2	400	200	400	200	3|5|1	0	0	material.1:5000,user.soul:117000
+3	600	300	600	300	3|5|1	0	0	material.1:8300,user.soul:198000
+4	800	400	800	400	3|5|1	0	0	material.1:12000,user.soul:522000
+5	1000	500	1000	500	3|5|1	0	0	material.1:17300,user.soul:783000

@@ -1,0 +1,15 @@
+变量名	变量值	名称
+Key	Value	Name
+String	String	Ignore
+serverStartTime	2014:05:21:18:00:00	开服时间
+globalHost	172.31.244.2	全服服务器Host
+globalPort	60001	全服服务器Port
+worldWarHost	172.31.244.2	武圣争霸Host
+worldWarPort	60002	武圣争霸Port
+worldWarOpenTime	2015:01:01:00:00:00	武圣争霸活动开启时间
+legionWarHost	172.31.244.2	军团战Host
+legionWarPort	60003	军团战Port
+territoryWarHost	172.31.244.2	领地战Host
+territoryWarPort	60004	领地战Port
+dfOpen	1	领地战是否开启(1为开启，0为关闭)
+dfPvpOpen	1	领地PVP是否开启(1为开启，0为关闭)

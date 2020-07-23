@@ -1,0 +1,4 @@
+索引ID	正面效果	不可被驱散	是否受到负面抗性影响	效果类型	效果固定值	效果系数(万分比)	额外伤害效果	额外伤害参数	属性修改	属性值修改	攻击吸血万分比	攻击吸血固定值	免疫负面物理伤害万分比	免疫负面技能伤害万分比	免疫负面物理伤害次数	免疫负面技能伤害次数	限制行动	反弹物理伤害万分比	改变技能组	变身资源名	变身资源类型	变身后缩放百分比	buff特效资源	buff特效类型(1只显示一次, 2循环特效)	buff特效挂载点(1上2中3下)	buff特效渲染层级(1上2下)	buff位置偏移	buff位置偏移1	buff特效资源1	buff特效类型(1只显示一次, 2循环特效)1	buff特效挂载点(1上2中3下)1	buff特效渲染层级(1上2下)1	buff位置偏移2	buff位置偏移3	是否显示数字
+id	dirType	cannotDispel	buffResistance	effectType	effectFixed	effectCoef	extraDmgType	extraDmgValue	attributeId	attributeValue	suckBloodPercent	suckBlood	immnuePhy	immnueMag	ignorePhyTimes	ignoreMagTimes	banMove	reboundDmg	changeSkillGroup	reUrl	reType	reScale	buffRes	buffResType	buffPos	buffZorder	buffOffsetX	buffOffsetY	buffRes2	buffResType2	buffPos2	buffZorder2	buffOffsetX2	buffOffsetY2	showNum
+Int	Int	Int	Int	Int	Int	Int	Int	Int	Ints	Ints	Int	Int	Int	Int	Int	Int	Int	Int	Int	String	Int	Int	String	Int	Int	Int	Int	Int	String	Int	Int	Int	Int	Int	Int
+1	1	1	1	0	0	100	0	0			0	0	0	0	0	0																			0

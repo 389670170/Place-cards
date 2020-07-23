@@ -1,0 +1,7 @@
+关键字	版本号	说明
+key	version	desc
+String	String	Ignore
+tarvenCycle	20191206-0001	用于控制酒馆招募周期读取配置重置
+runeBoxCycle	20191206-0001	用于符文宝箱周期读取配置重置
+signInReset	20191206-0001	用于特殊情况下需要立即重置签到奖励内容，正常情况下，签到奖励仅在下一个周期发生变化
+equipmentCycle	20200620-0001	用于装备打造周期强制重置

@@ -1,0 +1,9 @@
+编号	排名	奖励
+id	rank	award
+Int	Ints	Award
+1	1	material.200002:500,user.bindcash:50,material.950:1
+2	2	material.200002:300,user.bindcash:30,material.940:5
+3	3	material.200002:200,user.bindcash:20,material.940:4
+4	4|10	material.200002:100,user.bindcash:10,material.940:3
+5	11|20	material.200002:100,user.bindcash:10,material.940:2
+6	21|0	material.200002:100,user.bindcash:10,material.940:1

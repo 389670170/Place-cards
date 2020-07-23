@@ -1,0 +1,6 @@
+打造类型	单次打造消耗	解锁需要上一个类型打造次数	单次打造幸运值	图片	产物1	产物1循环内掉落次数	产物2	产物2循环内掉落次数	产物3	产物3循环内掉落次数
+type	cost	limit	luck	picture	award1	awardCycle1	award2	awardCycle2	award3	awardCycle3
+Int	Award	Int	Int	String	Award	Int	Award	Int	Award	Int
+1	user.gold:-4000	0	1	1.png	group.2001.0:1	45	group.2002.0:1	35	group.2004.0:1	20
+2	user.gold:-30000	10	1	1.png	group.2003.0:1	60	group.2005.0:1	30	group.2008.0:1	10
+3	user.gold:-450000	20	1	1.png	group.2006.0:1	75	group.2009.0:1	20	group.2013.0:1	5

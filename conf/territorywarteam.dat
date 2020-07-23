@@ -1,0 +1,13 @@
+村庄ID	村庄掉落展示	每日资源储量	队长获取速度（小时）	队员获取速度（小时）
+id	showIcon	resourceReserve	captain	member
+Int	Award	Award	Int	Int
+1	material.200002:1,user.hero_exp:250,user.gold:200	material.200002:2000	20	15
+2	material.200002:1,fragment.4013:1,user.gold:200	material.200002:1830	30	23
+3	material.200002:1,material.1:1,user.gold:200	material.200002:2400	40	30
+4	material.200002:1,material.200101:1,user.gold:200	material.200002:3030	50	38
+5	material.200002:1,material.940:1,user.gold:200	material.200002:3600	60	45
+6	material.200002:1,user.bindcash:1,user.gold:400	material.200002:6000	100	75
+7	material.200002:1,fragment.5027:1,user.gold:400	material.200002:6630	110	83
+8	material.200002:1,material.41:1,user.gold:400	material.200002:7200	120	90
+9	material.200002:1,material.100001:1,user.gold:400	material.200002:7830	130	98
+10	material.200002:1,material.950:1,user.gold:400	material.200002:8400	140	105
